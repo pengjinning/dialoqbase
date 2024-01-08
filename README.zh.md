@@ -1,6 +1,7 @@
 # dialogbase
 
 ```bash
+# https://dialoqbase.n4ze3m.com/guide/self-hosting.html
 export http_proxy=http://127.0.0.1:10818
 export https_proxy=http://127.0.0.1:10818
 # 
